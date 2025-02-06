@@ -2586,73 +2586,73 @@ div[data-type=interactive-svg] img {
   background-color: #e8e2e2;
 }
 .click-and-reveal-icon[data-content=P]:before {
-  background: url("../assets/images/letter-icon-P.png");
+  background: url("./assets/images/letter-icon-P.png");
 }
 .click-and-reveal-icon[data-content=E] .click-and-reveal-icon-content {
   background-color: #eedceb;
 }
 .click-and-reveal-icon[data-content=E]:before {
-  background: url("../assets/images/letter-icon-E.png");
+  background: url("./assets/images/letter-icon-E.png");
 }
 .click-and-reveal-icon[data-content=S] .click-and-reveal-icon-content {
   background-color: #e0dee3;
 }
 .click-and-reveal-icon[data-content=S]:before {
-  background: url("../assets/images/letter-icon-S.png");
+  background: url("./assets/images/letter-icon-S.png");
 }
 .click-and-reveal-icon[data-content=T] .click-and-reveal-icon-content {
   background-color: #d6e4e9;
 }
 .click-and-reveal-icon[data-content=T]:before {
-  background: url("../assets/images/letter-icon-T.png");
+  background: url("./assets/images/letter-icon-T.png");
 }
 .click-and-reveal-icon[data-content=L] .click-and-reveal-icon-content {
   background-color: #ffebfc;
 }
 .click-and-reveal-icon[data-content=L]:before {
-  background: url("../assets/images/letter-icon-L.png");
+  background: url("./assets/images/letter-icon-L.png");
 }
 .click-and-reveal-icon[data-content="1"] .click-and-reveal-icon-content {
   border: 1px solid black;
 }
 .click-and-reveal-icon[data-content="1"]:before {
-  background: url("../assets/images/number-icon-1.png");
+  background: url("./assets/images/number-icon-1.png");
 }
 .click-and-reveal-icon[data-content="2"] .click-and-reveal-icon-content {
   border: 1px solid black;
 }
 .click-and-reveal-icon[data-content="2"]:before {
-  background: url("../assets/images/number-icon-2.png");
+  background: url("./assets/images/number-icon-2.png");
 }
 .click-and-reveal-icon[data-content="3"] .click-and-reveal-icon-content {
   border: 1px solid black;
 }
 .click-and-reveal-icon[data-content="3"]:before {
-  background: url("../assets/images/number-icon-3.png");
+  background: url("./assets/images/number-icon-3.png");
 }
 .click-and-reveal-icon[data-content="4"] .click-and-reveal-icon-content {
   border: 1px solid black;
 }
 .click-and-reveal-icon[data-content="4"]:before {
-  background: url("../assets/images/number-icon-4.png");
+  background: url("./assets/images/number-icon-4.png");
 }
 .click-and-reveal-icon[data-content="5"] .click-and-reveal-icon-content {
   border: 1px solid black;
 }
 .click-and-reveal-icon[data-content="5"]:before {
-  background: url("../assets/images/number-icon-5.png");
+  background: url("./assets/images/number-icon-5.png");
 }
 .click-and-reveal-icon[data-content="6"] .click-and-reveal-icon-content {
   border: 1px solid black;
 }
 .click-and-reveal-icon[data-content="6"]:before {
-  background: url("../assets/images/number-icon-6.png");
+  background: url("./assets/images/number-icon-6.png");
 }
 .click-and-reveal-icon[data-content="7"] .click-and-reveal-icon-content {
   border: 1px solid black;
 }
 .click-and-reveal-icon[data-content="7"]:before {
-  background: url("../assets/images/number-icon-7.png");
+  background: url("./assets/images/number-icon-7.png");
 }
 .click-and-reveal-icon .click-and-reveal-icon-content {
   flex: 0 0 auto;
